@@ -1,0 +1,10 @@
+#page-title {
+  font-family: "Bad Script", cursive;
+  color: rgb(107, 53, 94);
+  font-size: 50px;
+}
+
+body {
+  background-color: rgb(228, 209, 225);
+  text-align: center;
+}
